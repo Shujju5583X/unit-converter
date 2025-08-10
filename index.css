@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: "Inter", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5f5f5;
+}
+
+.input{
+    background-color: #6842ff;
+    padding: 8px 8px;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    width: 550px;
+}
+#input{
+    background-color: #6842ff;
+    border-radius:10px;
+    margin: 15px auto;
+    padding: 20px 24px;
+    border: 1px solid #ffffff;
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffffff;
+    width: 80px;
+    text-align: center;
+}
+
+#convert-btn{
+    background-color:#ffffff ;
+    padding: 10px 12px;
+    margin: 15px 20px;
+    border: 1px solid #ffffff;
+    border-radius: 3px;
+}
+
+.section1, .section2,.section3 {
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+    padding: 8px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ffffff;
+    margin-top: 15px;
+    width: 550px;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+}
