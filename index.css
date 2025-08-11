@@ -32,6 +32,9 @@ body {
     width: 80px;
     text-align: center;
 }
+#input::placeholder{
+    color: #ffffff;
+}
 
 #convert-btn{
     background-color:#ffffff ;
